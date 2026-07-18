@@ -8,6 +8,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/varunsai20-a11y/dsa-solving-july-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/varunsai20-a11y/dsa-solving-july-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/varunsai20-a11y/dsa-solving-july-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/varunsai20-a11y/dsa-solving-july-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/varunsai20-a11y/dsa-solving-july-/tree/master/3620-network-recovery-pathways) |
 ## Math
 |  |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/varunsai20-a11y/dsa-solving-july-/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/varunsai20-a11y/dsa-solving-july-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/varunsai20-a11y/dsa-solving-july-/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -35,6 +37,7 @@
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/varunsai20-a11y/dsa-solving-july-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/varunsai20-a11y/dsa-solving-july-/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/varunsai20-a11y/dsa-solving-july-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -51,6 +54,7 @@
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/varunsai20-a11y/dsa-solving-july-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/varunsai20-a11y/dsa-solving-july-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/varunsai20-a11y/dsa-solving-july-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/varunsai20-a11y/dsa-solving-july-/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -81,4 +85,8 @@
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/varunsai20-a11y/dsa-solving-july-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/varunsai20-a11y/dsa-solving-july-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
