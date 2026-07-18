@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/varunsai20-a11y/dsa-solving-july-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/varunsai20-a11y/dsa-solving-july-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Number Theory
 |  |
 | ------- |
