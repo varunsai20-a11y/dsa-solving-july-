@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/varunsai20-a11y/dsa-solving-july-/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/varunsai20-a11y/dsa-solving-july-/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/varunsai20-a11y/dsa-solving-july-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/varunsai20-a11y/dsa-solving-july-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/varunsai20-a11y/dsa-solving-july-/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/varunsai20-a11y/dsa-solving-july-/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/varunsai20-a11y/dsa-solving-july-/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/varunsai20-a11y/dsa-solving-july-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
@@ -98,6 +100,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/varunsai20-a11y/dsa-solving-july-/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/varunsai20-a11y/dsa-solving-july-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Stack
 |  |
