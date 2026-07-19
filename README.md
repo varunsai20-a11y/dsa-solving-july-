@@ -16,12 +16,14 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/varunsai20-a11y/dsa-solving-july-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/varunsai20-a11y/dsa-solving-july-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/varunsai20-a11y/dsa-solving-july-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/varunsai20-a11y/dsa-solving-july-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Number Theory
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/varunsai20-a11y/dsa-solving-july-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/varunsai20-a11y/dsa-solving-july-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
 | ------- |
